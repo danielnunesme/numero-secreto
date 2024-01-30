@@ -1,7 +1,8 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.
+<br>Além do aprendizado com html, css e javascript, utilizei este projeto para aprender git e github.</p>
 
 ## 🚀 Tecnologias
 <div>
